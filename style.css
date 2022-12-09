@@ -99,9 +99,9 @@ a{
 }
 
 .transform{
-    text-transform:capitalize;
+    text-transform: none;
 }
 
 .cap{
-    text-transform: lowercase;
+    text-transform: none;
 }
